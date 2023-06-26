@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+header {
+  padding: 20px;
+}
+
+.container {
+  padding: 20px;
+}
+
+h2 {
+  padding: 20px;
+}
+
+.joke-card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  width: 300px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.meme-card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  width: 300px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
