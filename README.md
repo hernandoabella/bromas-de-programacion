@@ -1,4 +1,4 @@
-# bromas-de-programacion
+# Laughing Vault
 Colleción de bromas de programacion para no parar de reir.
 
 ### ¿Por qué los programadores siempre confunden Halloween con Navidad? 
